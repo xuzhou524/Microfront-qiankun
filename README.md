@@ -3,9 +3,20 @@
 
 主要细化qiankun example，希望我踩过的坑大家能跳过去，节省时间~
 
-***根据qiankun更新进度不定时修改完善***
+有帮助的话别忘了start
 
-有帮助的话别忘了start(https://github.com/CHU295/Micro-Frontends-practice)
+# qiankun 版本
+"qiankun": "^2.7.0",
+
+# 技术库
+1."react": "^18.2.0",
+2."react-dom": "^18.2.0",
+3."antd": "^5.2.0",
+4."webpack": "^5.75.0",
+5."webpack-cli": "^5.0.1",
+6."webpack-dev-server": "^4.11.1",
+7."html-webpack-plugin": "^5.5.0",
+8."less": "^2.7.1"
 
 # 目录介绍
 项目目前编写了vue、react两种实现方式
