@@ -12,7 +12,7 @@ export default class App extends React.Component {
   render() {
     return (
       <div style={{}}>
-        <p>基本档</p>
+        <p>基本档项目示例</p>
         <div style={{ color: 'redS' }}>基本档</div>
         <img src={logo} className="App-logo" alt="logo" />
         <Button type="primary">子项目 - antd - 测试</Button>
